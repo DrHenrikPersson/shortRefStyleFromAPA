@@ -685,8 +685,8 @@
     </sort>
     <layout>
       <group suffix=".">
-        <group delimiter=".HAHA ">
-          <text macro="author"/>
+        <group delimiter=". ">
+          <!--<text macro="author"/>-->
           <text macro="issued"/>
           <!--<text macro="title-plus-extra"/>
           <text macro="container"/>-->
