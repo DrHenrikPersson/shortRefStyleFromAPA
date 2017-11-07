@@ -692,10 +692,10 @@
         </group>
         <!--<text macro="legal-cites"/>
         <text macro="locators"/>-->
-        <group delimiter=", " prefix=". ">
-          <!--<text macro="event"/> -->
+        <!--<group delimiter=", " prefix=". ">
+          <text macro="event"/> 
           <text macro="publisher"/>
-        </group>
+        </group>-->
       </group>
       <!--<text macro="access" prefix=" "/>
       <text macro="original-date" prefix=" "/>-->
