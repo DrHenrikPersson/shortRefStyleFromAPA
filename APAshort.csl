@@ -681,7 +681,7 @@
     <sort>
       <key macro="author"/>
       <key macro="issued-sort" sort="ascending"/>
-      //<key macro="title"/>
+      <key macro="title"/>
     </sort>
     <layout>
       <group suffix=".">
@@ -689,10 +689,10 @@
           <text macro="author"/>
           <text macro="issued"/>
           //<text macro="title-plus-extra"/>
-          <text macro="container"/>
+          //<text macro="container"/>
         </group>
-        <text macro="legal-cites"/>
-        <text macro="locators"/>
+        //<text macro="legal-cites"/>
+        //<text macro="locators"/>
         <group delimiter=", " prefix=". ">
           <text macro="event"/>
           <text macro="publisher"/>
